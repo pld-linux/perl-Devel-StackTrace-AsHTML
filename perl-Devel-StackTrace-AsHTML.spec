@@ -7,13 +7,13 @@
 %include	/usr/lib/rpm/macros.perl
 Summary:	Devel::StackTrace::AsHTML - Displays stack trace in HTML
 Name:		perl-Devel-StackTrace-AsHTML
-Version:	0.11
+Version:	0.15
 Release:	1
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/Devel/%{pdir}-%{pnam}-%{version}.tar.gz
-# Source0-md5:	46ff8282d671f63e6a5f48bf45d86bbb
+# Source0-md5:	4ec8bd92e4a765a7cabf402db9640412
 URL:		http://search.cpan.org/dist/Devel-StackTrace-AsHTML/
 BuildRequires:	perl-devel >= 1:5.8.0
 BuildRequires:	rpm-perlprov >= 4.1-13
