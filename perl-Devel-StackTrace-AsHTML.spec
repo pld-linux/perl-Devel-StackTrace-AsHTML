@@ -4,7 +4,6 @@
 
 %define		pdir	Devel
 %define		pnam	StackTrace-AsHTML
-%include	/usr/lib/rpm/macros.perl
 Summary:	Devel::StackTrace::AsHTML - Displays stack trace in HTML
 Name:		perl-Devel-StackTrace-AsHTML
 Version:	0.15
